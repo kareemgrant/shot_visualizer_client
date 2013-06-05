@@ -1,0 +1,3 @@
+class ShotChartsController < ApplicationController
+
+end
